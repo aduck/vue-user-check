@@ -1,0 +1,3 @@
+export const SET_NO_STATUS='SET_NO_STATUS'
+export const SET_IN_STATUS='SET_IN_STATUS'
+export const SET_OUT_STATUS='SET_OUT_STATUS'
